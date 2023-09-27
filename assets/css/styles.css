@@ -525,6 +525,11 @@ body.light-theme{
   font-size: var(--tiny-font-size);
 }
 
+.icon-dis{
+  width: 22px;
+  height: 22px;
+}
+
 /*=============== SERVICES ===============*/
 .services__container{
   grid-template-columns: repeat(2, 1fr);
